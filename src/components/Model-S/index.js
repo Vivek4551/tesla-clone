@@ -1,7 +1,5 @@
 import React from "react";
-
 import { Wrapper,Content } from "./models.style";
-
 import Section from "../Section";
 import Interior from "../Interior_Specs";
 import Specs from "../Gen_Spec";
